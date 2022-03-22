@@ -13,4 +13,4 @@ The solution provided by Microsoft to automate the start and stop of Virtual Mac
 7. `ScheduledStartStop_Child`
 8. `ScheduledStartStop_Child_Classic`
 9. `ScheduledStartStop_Parent`
-10. `ScheduledStartStop_Parent`
+10. `SequencedStartStop_Parent`
